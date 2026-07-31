@@ -1,0 +1,28 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:            B19013_001E   R-squared:                       1.000
+Model:                            OLS   Adj. R-squared:                  1.000
+Method:                 Least Squares   F-statistic:                 5.687e+31
+Date:                Thu, 30 Jul 2026   Prob (F-statistic):               0.00
+Time:                        18:47:01   Log-Likelihood:                 1355.2
+No. Observations:                  58   AIC:                            -2704.
+Df Residuals:                      55   BIC:                            -2698.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const        3.274e-11   8.12e-12      4.031      0.000    1.65e-11     4.9e-11
+B23025_005E -2.776e-17    4.6e-17     -0.603      0.549    -1.2e-16    6.45e-17
+B19013_001E     1.0000    9.5e-17   1.05e+16      0.000       1.000       1.000
+==============================================================================
+Omnibus:                       12.488   Durbin-Watson:                   0.160
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):               15.751
+Skew:                           0.819   Prob(JB):                     0.000380
+Kurtosis:                       4.959   Cond. No.                     3.19e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.19e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.

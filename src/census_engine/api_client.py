@@ -37,4 +37,8 @@ class CensusAPIClient:
         for var in variables:
             df[var] = pd.to_numeric(df[var], errors="coerce")
 
+        # Ensure local directory exists and cache raw snapshot
+        os.makedirs("data/raw", exist_ok=True)
+        df.to_csv("data/raw/census_raw_ca.csv", index=False)
+
         return df
