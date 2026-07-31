@@ -20,7 +20,7 @@ Built for rigorous statistical and public policy research, this framework moves 
 
 ---
 
-## Sample Output
+## 🔍 Sample Output
 ```
                             OLS Regression Results
 ==============================================================================
