@@ -1,59 +1,59 @@
-NAME,B19013_001E,B23025_005E,state,county,Income_Unemployment_Ratio
-"Alameda County, California",122488,45290,06,001,2.704466671082555
-"Alpine County, California",101125,33,06,003,2974.264705882353
-"Amador County, California",74853,1016,06,005,73.60176991150442
-"Butte County, California",66085,7344,06,007,8.997277059223961
-"Calaveras County, California",77526,1150,06,009,67.35534317984362
-"Colusa County, California",69619,773,06,011,89.94702842377261
-"Contra Costa County, California",120020,35616,06,013,3.369739169497712
-"Del Norte County, California",61149,662,06,015,92.23076923076923
-"El Dorado County, California",99246,4244,06,017,23.379505300353358
-"Fresno County, California",67756,39943,06,019,1.696274784698578
-"Glenn County, California",64033,1040,06,021,61.51104707012488
-"Humboldt County, California",57881,6162,06,023,9.391692357618043
-"Imperial County, California",53847,9205,06,025,5.849120139039757
-"Inyo County, California",63417,426,06,027,148.5175644028103
-"Kern County, California",63883,32872,06,029,1.9433273507133513
-"Kings County, California",68540,5352,06,031,12.80403512049318
-"Lake County, California",56259,2948,06,033,19.077314343845373
-"Lassen County, California",59515,777,06,035,76.49742930591259
-"Los Angeles County, California",83411,365544,06,037,0.22818257670054304
-"Madera County, California",73543,7492,06,039,9.814893900974242
-"Marin County, California",142019,7887,06,041,18.004437119675455
-"Mariposa County, California",60021,482,06,043,124.26708074534162
-"Mendocino County, California",61335,3811,06,045,16.089979013641134
-"Merced County, California",64772,13272,06,047,4.879981918179763
-"Modoc County, California",54962,264,06,049,207.40377358490565
-"Mono County, California",82038,144,06,051,565.7793103448275
-"Monterey County, California",91043,10504,06,053,8.666634935744883
-"Napa County, California",105809,3733,06,055,28.33663631494376
-"Nevada County, California",79395,2090,06,057,37.96987087517934
-"Orange County, California",109361,90700,06,059,1.2057309180714655
-"Placer County, California",109375,8466,06,061,12.917798511869611
-"Plumas County, California",67885,667,06,063,101.62425149700599
-"Riverside County, California",84505,77625,06,065,1.0886172158812768
-"Sacramento County, California",84010,50165,06,067,1.6746401945540805
-"San Benito County, California",104451,2127,06,069,49.08411654135338
-"San Bernardino County, California",77423,73890,06,071,1.0478001380411688
-"San Diego County, California",96974,106617,06,073,0.9095462304676508
-"San Francisco County, California",136689,28177,06,075,4.8509120590531625
-"San Joaquin County, California",82837,26331,06,077,3.145868145222543
-"San Luis Obispo County, California",90158,6905,06,079,13.055024616275702
-"San Mateo County, California",149907,19184,06,081,7.813760750586396
-"Santa Barbara County, California",92332,13414,06,083,6.882743197912784
-"Santa Clara County, California",153792,46592,06,085,3.3007533320455864
-"Santa Cruz County, California",104409,8465,06,087,12.332742735648477
-"Shasta County, California",68347,5349,06,089,12.775140186915888
-"Sierra County, California",61108,74,06,091,814.7733333333333
-"Siskiyou County, California",53898,1337,06,093,40.28251121076233
-"Solano County, California",97037,13275,06,095,7.309204579692678
-"Sonoma County, California",99266,13543,06,097,7.329149438865919
-"Stanislaus County, California",74872,21061,06,099,3.5548380970468143
-"Sutter County, California",72654,3483,06,101,20.85361653272101
-"Tehama County, California",59029,2038,06,103,28.949975478175578
-"Trinity County, California",47317,413,06,105,114.29227053140097
-"Tulare County, California",64474,18919,06,107,3.4077167019027486
-"Tuolumne County, California",70432,1895,06,109,37.14767932489451
-"Ventura County, California",102141,22989,06,111,4.442844715093519
-"Yolo County, California",85097,5740,06,113,14.82267897578819
-"Yuba County, California",66693,2538,06,115,26.267428121307603
+NAME,B19013_001E,B23025_005E,state,county
+"Alameda County, California",122488,45290,06,001
+"Alpine County, California",101125,33,06,003
+"Amador County, California",74853,1016,06,005
+"Butte County, California",66085,7344,06,007
+"Calaveras County, California",77526,1150,06,009
+"Colusa County, California",69619,773,06,011
+"Contra Costa County, California",120020,35616,06,013
+"Del Norte County, California",61149,662,06,015
+"El Dorado County, California",99246,4244,06,017
+"Fresno County, California",67756,39943,06,019
+"Glenn County, California",64033,1040,06,021
+"Humboldt County, California",57881,6162,06,023
+"Imperial County, California",53847,9205,06,025
+"Inyo County, California",63417,426,06,027
+"Kern County, California",63883,32872,06,029
+"Kings County, California",68540,5352,06,031
+"Lake County, California",56259,2948,06,033
+"Lassen County, California",59515,777,06,035
+"Los Angeles County, California",83411,365544,06,037
+"Madera County, California",73543,7492,06,039
+"Marin County, California",142019,7887,06,041
+"Mariposa County, California",60021,482,06,043
+"Mendocino County, California",61335,3811,06,045
+"Merced County, California",64772,13272,06,047
+"Modoc County, California",54962,264,06,049
+"Mono County, California",82038,144,06,051
+"Monterey County, California",91043,10504,06,053
+"Napa County, California",105809,3733,06,055
+"Nevada County, California",79395,2090,06,057
+"Orange County, California",109361,90700,06,059
+"Placer County, California",109375,8466,06,061
+"Plumas County, California",67885,667,06,063
+"Riverside County, California",84505,77625,06,065
+"Sacramento County, California",84010,50165,06,067
+"San Benito County, California",104451,2127,06,069
+"San Bernardino County, California",77423,73890,06,071
+"San Diego County, California",96974,106617,06,073
+"San Francisco County, California",136689,28177,06,075
+"San Joaquin County, California",82837,26331,06,077
+"San Luis Obispo County, California",90158,6905,06,079
+"San Mateo County, California",149907,19184,06,081
+"Santa Barbara County, California",92332,13414,06,083
+"Santa Clara County, California",153792,46592,06,085
+"Santa Cruz County, California",104409,8465,06,087
+"Shasta County, California",68347,5349,06,089
+"Sierra County, California",61108,74,06,091
+"Siskiyou County, California",53898,1337,06,093
+"Solano County, California",97037,13275,06,095
+"Sonoma County, California",99266,13543,06,097
+"Stanislaus County, California",74872,21061,06,099
+"Sutter County, California",72654,3483,06,101
+"Tehama County, California",59029,2038,06,103
+"Trinity County, California",47317,413,06,105
+"Tulare County, California",64474,18919,06,107
+"Tuolumne County, California",70432,1895,06,109
+"Ventura County, California",102141,22989,06,111
+"Yolo County, California",85097,5740,06,113
+"Yuba County, California",66693,2538,06,115
