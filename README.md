@@ -1,6 +1,6 @@
 # Census Causal Policy & Demographic Evaluation Engine
 
-[![CI Test Suite](https://github.com/bealljamesp/census-causal-policy-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/bealljamesp/census-causal-policy-engine/actions/workflows/tests.yml)
+[![CI Test Suite](https://github.com/bealljamesp/Causal-Inference-and-Policy-Evaluation/actions/workflows/tests.yml/badge.svg)](https://github.com/bealljamesp/Causal-Inference-and-Policy-Evaluation/actions/workflows/tests.yml)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
