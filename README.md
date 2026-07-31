@@ -50,15 +50,3 @@ Notes:
 [2] The condition number is large, 6.07e+04. This might indicate that there are
 strong multicollinearity or other numerical problems.
 ```
----
-
-## ⚡ Quick Start
-
-### 1. Clone & Set Up Environment
-```bash
-# Clone Repository
-git clone [https://github.com/bealljamesp/census-causal-policy-engine.git](https://github.com/bealljamesp/census-causal-policy-engine.git)
-cd census-causal-policy-engine
-
-# Install Package with Development Dependencies
-pip install -e .[dev]
